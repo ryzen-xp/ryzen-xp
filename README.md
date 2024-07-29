@@ -34,33 +34,14 @@
 
 <br>
 
-## 📜 Coding Activity
-<!--START_SECTION:waka-->
-
-```txt
-From: 27 June 2024 - To: 27 July 2024
-
-Total Time: 52 hrs 2 mins
-
-JavaScript    25 hrs 29 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   48.98 %
-TypeScript    24 hrs 4 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   46.27 %
-EJS           50 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.63 %
-JSON          45 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.44 %
-Bash          33 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.09 %
-```
-
-<!--END_SECTION:waka-->
-
-<br>
-
 ## 📈 GitHub Stats 
-[![Manas’s github stats](https://github-readme-stats.vercel.app/api?username=importlogic&show_icons=true&theme=dark&count_private=true)](https://github.com/importlogic)
+[![Manas’s github stats](https://github-readme-stats.vercel.app/api?username=ryzenxp&show_icons=true&theme=dark&count_private=true)](https://github.com/ryzenxp)
 
 <br>
 
 ## 👀 Visitors
 <!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
-![Visitors](https://moe-counter.glitch.me/get/@importlogic?theme=rule34)
+![Visitors](https://moe-counter.glitch.me/get/@ryzenxp?theme=rule34)
 <br/>
 **`My GitHub Stats`** </h2>
 
