@@ -32,8 +32,36 @@
  <a> <img alt="Ethereum" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-ethereum-10-645903.png?f=avif&w=256"/> </a>
   <a> <img alt="Polygon" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/polygon/polygon-original.svg"/> </a></p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ryzen_xp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ryzen_xp" /></a></p><br><br>
+<br>
+
+## 📜 Coding Activity
+<!--START_SECTION:waka-->
+
+```txt
+From: 27 June 2024 - To: 27 July 2024
+
+Total Time: 52 hrs 2 mins
+
+JavaScript    25 hrs 29 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   48.98 %
+TypeScript    24 hrs 4 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   46.27 %
+EJS           50 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.63 %
+JSON          45 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.44 %
+Bash          33 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.09 %
+```
+
+<!--END_SECTION:waka-->
+
+<br>
+
+## 📈 GitHub Stats 
+[![Manas’s github stats](https://github-readme-stats.vercel.app/api?username=importlogic&show_icons=true&theme=dark&count_private=true)](https://github.com/importlogic)
+
+<br>
+
+## 👀 Visitors
+<!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
+![Visitors](https://moe-counter.glitch.me/get/@importlogic?theme=rule34)
+<br/>
 **`My GitHub Stats`** </h2>
 
 <!--<div align=center ><img  src="https://github-readme-stats.vercel.app/api?username=TusharDixit-301&show_icons=true&locale=en&theme=chartreuse-dark" alt="TusharDixit-301" /> </div> -->
