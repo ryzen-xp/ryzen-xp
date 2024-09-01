@@ -44,7 +44,7 @@
 
 <!--<div align=center ><img  src="https://github-readme-stats.vercel.app/api?username=TusharDixit-301&show_icons=true&locale=en&theme=chartreuse-dark" alt="TusharDixit-301" /> </div> -->
 
-<div align=center><img  src="https://github-readme-streak-stats.herokuapp.com/?user=TusharDixit-301&theme=chartreuse-dark" alt="TusharDixit-301" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryzen-xp&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 <!-- <div align=center><img src="https://github.com/TusharDixit-301/TusharDixit-301/blob/main/assests/giphy.gif" ></div> -->
 
