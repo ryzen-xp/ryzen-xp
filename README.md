@@ -34,10 +34,7 @@
 
 <br>
 
-## 📈 GitHub Stats 
-[![Manas’s github stats](https://github-readme-stats.vercel.app/api?username=ryzenxp&show_icons=true&theme=dark&count_private=true)](https://github.com/ryzenxp)
 
-<br>
 
 ## 👀 Visitors
 <!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
