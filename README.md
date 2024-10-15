@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryzen-xp&label=Profile%20views&color=0e75b6&style=flat" alt="ryzen-xp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryzen-xp" alt="ryzen-xp" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryzen-xp&theme=matrix" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ryzen__xp" target="blank"><img src="https://img.shields.io/twitter/follow/ryzen__xp?logo=twitter&style=for-the-badge" alt="ryzen__xp" /></a> </p>
 
