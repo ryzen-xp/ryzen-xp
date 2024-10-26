@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Foundry ,React**
 
-- 💬 Ask me about **Solidity, Nodej.s**
+- 💬 Ask me about **Solidity, Nodej.s , Javascript **
 
 - 📫 How to reach me **iron4540@gmail.com**
 
