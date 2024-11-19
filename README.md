@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **NGOs CrowdFunding Dapp**
 
-- 🌱 I’m currently learning **Foundry ,React**
+- 🌱 I’m currently learning **Rust<i class="fab fa-rust"></i> , Foundry**
 
 - 💬 Ask me about **Solidity, Nodej.s , Javascript **
 
