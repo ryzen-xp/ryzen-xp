@@ -14,14 +14,4 @@
 - 💬 Ask me about  Solidity , Nodej.s , Javascript **
 
 - 📫 How to reach me **iron4540@gmail.com**
-
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryzen-xp&show_icons=true&locale=en&layout=compact" alt="ryzen-xp" /></p>
-
-
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ryzen-xp&" alt="ryzen-xp" /></p>
