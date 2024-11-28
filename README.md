@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Rust , Cairo , Foundry**
 
-- 💬 Ask me about https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white, Nodej.s , Javascript **
+- 💬 Ask me about  Solidity , Nodej.s , Javascript **
 
 - 📫 How to reach me **iron4540@gmail.com**
 
