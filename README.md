@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on **NGOs CrowdFunding Dapp**
 
-- 🌱 I’m currently learning **Rust , Cairo , Foundry**
+- 🌱 I’m currently learning **Rust , Cairo **
 
-- 💬 Ask me about  Solidity , Nodej.s , Javascript **
+- 💬 Ask me about  Solidity ,Foundry ,Javascript **
 
 - 📫 How to reach me **iron4540@gmail.com**
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ryzen-xp&" alt="ryzen-xp" /></p>
