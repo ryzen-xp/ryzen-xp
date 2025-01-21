@@ -19,7 +19,6 @@
 - 💬 Ask me about  Solidity ,Foundry ,Javascript **
 
 - 📫 How to reach me **iron4540@gmail.com**
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ryzen-xp&" alt="ryzen-xp" /></p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryzen_xp)]
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryzen_xp)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryzen-xp&label=Profile%20views&color=0e75b6&style=flat" alt="ryzen-xp" /> </p>
