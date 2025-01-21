@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Chauhan</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryzen-xp&label=Profile%20views&color=0e75b6&style=flat" alt="ryzen-xp" /> </p>
 
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
@@ -21,4 +21,4 @@
 - 📫 How to reach me **iron4540@gmail.com**
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryzen_xp)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryzen-xp&label=Profile%20views&color=0e75b6&style=flat" alt="ryzen-xp" /> </p>
+
