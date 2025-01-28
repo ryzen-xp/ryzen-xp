@@ -15,16 +15,35 @@
 
 - 📫 How to reach me **iron4540@gmail.com**
 
-  <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,rust,js ,ts,cpp , react,nodejs,express ,mongodb ,vscode&perline=13" />
-  </a>
-</p>
+
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
   
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryzen-xp&theme=vue)
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ryzen-xp&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ryzen-xp&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryzen_xp)
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
+
+
+</p>  
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryzen-xp&theme=vue)
+
+
 
 
 
