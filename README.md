@@ -26,13 +26,7 @@
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryzen_xp)
 
-<!--profile visit count-->
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/jagadeeshftw/count.svg"/>
-  </div> 
-</p>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
