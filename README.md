@@ -14,7 +14,7 @@
 - 💬 Ask me about  ** Solidity , Foundry ,Javascript **
 
 - 📫 How to reach me **iron4540@gmail.com**
-       Telegram       https://t.me/ryzen_xp
+- 📫  Telegram          https://t.me/ryzen_xp
   
 
 
