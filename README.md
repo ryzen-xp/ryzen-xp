@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryzen-xp&label=Profile%20views&color=0e75b6&style=flat" alt="ryzen-xp" /> </p>
 
-- 🔭 I’m currently working on **NGOs CrowdFunding Dapp**
+- 🔭 I’m currently working on **BlockStamp**
 
 - 🌱 I’m currently learning  **Rust, Cairo**
 
