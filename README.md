@@ -15,6 +15,11 @@
 
 - 📫 How to reach me **iron4540@gmail.com**
 
+<div>
+  <img src=https://go-skill-icons.vercel.app/api/icons?i=cairo,rust,solidity,typescript,cpp,nodejs ,linux />
+</div>
+<br><br/>
+
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
