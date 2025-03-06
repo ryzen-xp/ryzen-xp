@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **XPStamp**
 
-- 🌱 I’m currently learning  **Rust, Cairo, soroban**
+- 🌱 I’m currently learning  **Rust, Cairo**
 
 - 💬 Ask me about  **Solidity, Foundry, Javascript**
 
