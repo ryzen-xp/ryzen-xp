@@ -14,6 +14,7 @@
 - 💬 Ask me about  **Solidity, Foundry, Javascript**
 
 - 📫 How to reach me **iron4540@gmail.com**
+- 💬 Telegram **https://t.me/ryzen_xp**
 
 <div>
   <img src=https://go-skill-icons.vercel.app/api/icons?i=cairo,rust,solidity,javascript,cpp,nodejs ,linux />
