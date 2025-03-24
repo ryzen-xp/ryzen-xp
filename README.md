@@ -7,6 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryzen-xp&label=Profile%20views&color=0e75b6&style=flat" alt="ryzen-xp" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/712c00ff-4f47-488b-822d-a304ae823cdb.svg)](https://wakatime.com/@712c00ff-4f47-488b-822d-a304ae823cdb)
+
+
 - 🔭 I’m currently working on **XPStamp**
 
 - 🌱 I’m currently learning  **Rust, Cairo**
