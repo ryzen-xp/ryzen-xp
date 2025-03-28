@@ -20,7 +20,7 @@
 - 💬 Telegram **https://t.me/ryzen_xp**
 
 <div>
-  <img src=https://go-skill-icons.vercel.app/api/icons?i=cairo,rust,solidity,javascript,cpp,nodejs ,linux />
+  <img src=https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,cairo,javascript,ts,nodejs,nest,linux />
 </div>
 <br><br/>
 
