@@ -59,6 +59,8 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryzen-xp&theme=vue)
 
+[![An image of @ryzenxp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryzenxp)](https://holopin.io/@ryzenxp)
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
