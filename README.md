@@ -42,7 +42,7 @@
 <tr border="none">
 <td width="50%" align="center">
  
-![](https://github-contributor-stats.vercel.app/api?username=ryzen-xp&limit=12&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ryzen-xp&limit=15&theme=dark&combine_all_yearly_contributions=true)
 
 </td>
 
