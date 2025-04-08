@@ -20,7 +20,7 @@
   
 - 💬 Telegram **https://t.me/ryzen_xp**
 
-- 📄 My Resume Here **[Check it](https://github.com/ryzen-xp/ryzen-xp/blob/main/SANDEEP%20CHAUHAN.pdf)**
+- 📄 My Resume Here **[Check it out](https://github.com/ryzen-xp/ryzen-xp/blob/main/SANDEEP%20CHAUHAN.pdf)**
 
 <div>
   <img src=https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,cairo,javascript,ts,nodejs,nest,linux />
