@@ -10,7 +10,7 @@
 [![wakatime](https://wakatime.com/badge/user/712c00ff-4f47-488b-822d-a304ae823cdb.svg)](https://wakatime.com/@712c00ff-4f47-488b-822d-a304ae823cdb)
 
 
-- 🔭 I’m currently working on **Ark Digital Sign**
+
 
 - 🌱 I’m currently learning  **Rust, Cairo**
 
