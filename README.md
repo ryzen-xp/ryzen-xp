@@ -5,11 +5,15 @@
 </div>
 <!-- <h3 align="center">A passionate Blockchain developer from India  d</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryzen-xp&label=Profile%20views&color=0e75b6&style=flat" alt="ryzen-xp" /> </p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Wakatime badge on the left -->
+  <a href="https://wakatime.com/@712c00ff-4f47-488b-822d-a304ae823cdb">
+    <img src="https://wakatime.com/badge/user/712c00ff-4f47-488b-822d-a304ae823cdb.svg" alt="wakatime">
+  </a>
 
-[![wakatime](https://wakatime.com/badge/user/712c00ff-4f47-488b-822d-a304ae823cdb.svg)](https://wakatime.com/@712c00ff-4f47-488b-822d-a304ae823cdb)
-
-
+  <!-- GitHub profile view counter on the right -->
+  <img src="https://komarev.com/ghpvc/?username=ryzen-xp&label=Profile%20views&color=0e75b6&style=flat" alt="ryzen-xp" />
+</div>
 
 
 - 🌱 I’m currently learning  **Rust, Cairo**
@@ -37,7 +41,7 @@
 </td>
 
 <td width="50%" align="center">
-  <img  title="🔥🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ryzen-xp&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ryzen-xp&theme=dark&hide_border=false" /> 
   
   </td>
 </tr>
