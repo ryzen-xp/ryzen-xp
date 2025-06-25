@@ -24,8 +24,6 @@
   
 - 💬 Telegram **https://t.me/ryzen_xp**
 
-- 📄 My Resume Here **[Check it out](https://docs.google.com/document/d/e/2PACX-1vRI2P62Ho4FdvoI7B0_0yfE1QaAheyvy8kYS-8lhNU3UstOZQjcHp4BxJhRUr1eIpfdA3B0d_XMkMnv/pub)**
-
 <div>
   <img src=https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,cairo,javascript,ts,nodejs,nest,linux />
 </div>
