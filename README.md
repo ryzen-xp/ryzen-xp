@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning  **Rust, Cairo**
 
-- 💬 Ask me about  **Solidity, Foundry, Javascript**
+- 💬 Ask me about  **Solidity, Foundry, Javascript. Typescript**
 
 - 📫 How to reach me **iron4540@gmail.com**
   
