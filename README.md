@@ -20,7 +20,7 @@
 
 - 💬 Ask me about  **Solidity, Foundry, Javascript, Typescript**
 
-- 🌐⛓️ Work on   **Starknet, Stellar, Etherium, Polygon** Blockchain ecosystem's.
+- 🌐⛓️ Work on   **Starknet, Stellar, Ethereum, Polygon** Blockchain ecosystem's.
 
 - 📬 How to reach me **iron4540@gmail.com**
   
