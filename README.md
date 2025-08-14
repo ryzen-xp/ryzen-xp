@@ -16,13 +16,15 @@
 </div>
 
 
-- 🌱 I’m currently learning  **Rust, Cairo**
+- 🌱 I’m currently learning  **Rust, Cairo, Dojo**
 
-- 💬 Ask me about  **Solidity, Foundry, Javascript. Typescript**
+- 💬 Ask me about  **Solidity, Foundry, Javascript, Typescript**
 
-- 📫 How to reach me **iron4540@gmail.com**
+- 🌐⛓️ Work on   **Starknet, Stellar, Etherium, Polygon** Blockchain ecosystem's.
+
+- 📬 How to reach me **iron4540@gmail.com**
   
-- 💬 Telegram **https://t.me/ryzen_xp**
+- 📩 Telegram **https://t.me/ryzen_xp**
 
 <div>
   <img src=https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,cairo,javascript,ts,nodejs,nest,linux />
