@@ -68,7 +68,7 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryzen-xp&theme=vue)
 
----
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
