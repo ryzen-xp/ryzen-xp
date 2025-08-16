@@ -15,15 +15,13 @@
   <img src="https://komarev.com/ghpvc/?username=ryzen-xp&label=Profile%20views&color=0e75b6&style=flat" alt="ryzen-xp" />
 </div>
 
+- 🌱 I’m currently learning **Rust, Cairo, Dojo**
 
-- 🌱 I’m currently learning  **Rust, Cairo, Dojo**
+- 💬 Ask me about **Solidity, Foundry, Javascript, Typescript**
 
-- 💬 Ask me about  **Solidity, Foundry, Javascript, Typescript**
-
-- 🌐⛓️ Work on   **Starknet, Stellar, Ethereum, Polygon** Blockchain ecosystem's.
+- 🌐⛓️ Work on **Starknet, Stellar, Ethereum, Polygon** Blockchain ecosystem's.
 
 - 📬 How to reach me **iron4540@gmail.com**
-  
 - 📩 Telegram **https://t.me/ryzen_xp**
 
 <div>
@@ -46,8 +44,6 @@
   </td>
 </tr>
 
-
-
 <!-- <tr border="none">
 <td width="50%" align="center">
 
@@ -60,7 +56,7 @@
 
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryzen_xp)
-  
+
   </td>
 </tr>
 
@@ -68,14 +64,19 @@
 
 </table>
 
-</p>  
+</p>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryzen-xp&theme=vue)
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
+  <img alt="Breakout Game" src="images/breakout-light.svg">
+</picture>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 </p>
-
-
