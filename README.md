@@ -57,7 +57,7 @@
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryzen_xp)
 
-asdasewrew
+
 
   </td>
 </tr>
