@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Solidity, Cairo, Dojo, Foundry, Javascript, Typescript**
 
-- 🌐⛓️ Work on **Starknet, Stellar, Ethereum, Polygon** Blockchain ecosystem's.
+- 🌐⛓️ Work on **Starknet, Stellar, Ethereum** Blockchain ecosystem's.
 
 - 📬 How to reach me **iron4540@gmail.com**
 - 📩 Telegram **https://t.me/ryzen_xp**
