@@ -21,7 +21,7 @@
 
 - 🌐⛓️ Work on **Starknet, Stellar, Ethereum** Blockchain ecosystem's.
 
-- 📬 How to reach me **iron4540@gmail.com**
+- 📬 How to reach me **ryzen4540@gmail.com**
 - 📩 Telegram **https://t.me/ryzen_xp**
 
 <div>
