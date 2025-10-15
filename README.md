@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Rust, Move**
 
-- 💬 Ask me about **Solidity, Cairo, Dojo, Foundry, Javascript, Typescript**
+- 💬 Ask me about **Solidity, Cairo, Dojo, Foundry, TS**
 
 - 🌐⛓️ Work on **Starknet, Stellar, Ethereum** Blockchain ecosystem's.
 
@@ -25,7 +25,7 @@
 - 📩 Telegram **https://t.me/ryzen_xp**
 
 <div>
-  <img src=https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,cairo,javascript,ts,nodejs,nest,linux />
+  <img src=https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,cairo,javascript,ts,nodejs,nest,linux, dojo />
 </div>
 <br><br/>
 
@@ -69,15 +69,4 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryzen-xp&theme=vue)
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
-  <img alt="Breakout Game" src="images/breakout-light.svg">
-</picture>
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-</p>
