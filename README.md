@@ -15,11 +15,11 @@
   <img src="https://komarev.com/ghpvc/?username=ryzen-xp&label=Profile%20views&color=0e75b6&style=flat" alt="ryzen-xp" />
 </div>
 
-- 🌱 I’m currently learning **Rust, Move**
+- 🌱 I’m currently learning **Rust, Axum**
 
 - 💬 Ask me about **Solidity, Cairo, Dojo, Foundry, TS**
 
-- 🌐⛓️ Work on **Starknet, Stellar, Ethereum** Blockchain ecosystem's.
+- 🌐⛓️ Work on **Starknet, Stellar, EVM** Blockchain ecosystem's.
 
 - 📬 How to reach me **ryzen4540@gmail.com**
 - 📩 Telegram **https://t.me/ryzen_xp**
