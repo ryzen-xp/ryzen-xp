@@ -52,7 +52,6 @@
 
 
 </td>
-asfsd
 <td width="50%" align="center">
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryzen_xp)
