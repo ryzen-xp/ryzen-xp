@@ -31,13 +31,12 @@
 <br><br/>
 
   <!--- stats (start) -->
+  
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
- 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ryzen-xp&theme=dark&show_icons=true&count_private=true" />
-
-</td>
+<td width="50%" align="center"> 
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ryzen-xp&theme=dark&show_icons=true&count_private=true"/>
+</td> 
 
 <td width="50%" align="center">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ryzen-xp&theme=dark&hide_border=false" /> 
@@ -45,23 +44,6 @@
   </td>
 </tr>
 
-<!-- <tr border="none">
-<td width="50%" align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=ryzen-xp&limit=15&theme=dark&combine_all_yearly_contributions=true)
-
-
-</td>
-<td width="50%" align="center">
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryzen_xp)
-
-  </td>
-</tr>
-
-
-
--->
 
 </table>
 
