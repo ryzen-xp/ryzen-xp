@@ -35,14 +35,12 @@
 <td width="50%" align="center"> 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ryzen-xp&theme=dark&show_icons=true&count_private=true"/>
 
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Josue19-08&count_private=true&theme=dark&border_radius=10" alt="GitHub Streak" />
 </td> 
 
 <td width="50%" align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryzen-xp&theme=tokyonight" alt="Most Commit Language" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryzen-xp&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ryzen-xp&count_private=true&theme=dark&border_radius=10" alt="GitHub Streak" />
   
   
   </td>
