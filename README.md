@@ -21,34 +21,48 @@
 
 - 🌐⛓️ Work on **Starknet, Stellar, EVM** Blockchain ecosystem's.
 
-- 📬 How to reach me **ryzen4540@gmail.com**
-- 📩 Telegram **https://t.me/ryzen_xp**
   
 
-<div>
+<div align="center">
   <img src=https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,cairo,javascript,ts,nodejs,nest,linux, dojo />
 </div>
 <br><br/>
 
   <!--- stats (start) -->
   
-<!-- <table align="center">
+ <table align="center">
 <tr border="none">
 <td width="50%" align="center"> 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ryzen-xp&theme=dark&show_icons=true&count_private=true"/>
+
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Josue19-08&count_private=true&theme=dark&border_radius=10" alt="GitHub Streak" />
 </td> 
 
 <td width="50%" align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ryzen-xp&theme=dark&hide_border=false" /> 
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryzen-xp&theme=tokyonight" alt="Most Commit Language" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryzen-xp&theme=tokyonight" alt="Repos per Language" />
+  
   
   </td>
 </tr>
 
 
-</table> -->
+</table> 
 
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryzen-xp&bg_color=0E1A2B&color=6DB6FF&line=1A91DA&point=1A91DA&area=true&hide_border=true" alt="Activity Graph" />
+</div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryzen-xp&theme=vue)
+### 🌐 Let's Connect!
+<div align="center">
+  <a href="https://x.com/ryzen__xp">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://t.me/ryzen_xp">
+    <img src="https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" />
+  </a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
