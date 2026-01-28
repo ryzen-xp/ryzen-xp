@@ -24,7 +24,7 @@
   
 
 <div align="center">
-  <img src=https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,cairo,javascript,ts,nodejs,nest,linux, dojo />
+  <img src=https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,cairo,javascript,ts,cpp,nodejs,postgres,nest,bash,linux, dojo />
 </div>
 <br><br/>
 
