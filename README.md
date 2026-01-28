@@ -55,6 +55,8 @@
 
 ### 🌐 Let's Connect!
 <div align="center">
+
+  <a href="mailto:ryzen4540@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge"></a>
   <a href="https://x.com/ryzen__xp">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
