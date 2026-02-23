@@ -60,9 +60,9 @@
   <a href="https://x.com/ryzen__xp">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://t.me/ryzen_xp">
+  <a href="https://t.me/">
     <img src="https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" />
-  </a>
+ </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
