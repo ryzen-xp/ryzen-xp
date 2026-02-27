@@ -31,9 +31,12 @@
   <!--- stats (start) -->
   
  <table align="center">
+   
 <tr border="none">
+  
 <td width="50%" align="center"> 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ryzen-xp&theme=dark&show_icons=true&count_private=true"/>
+  <!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ryzen-xp&theme=dark&show_icons=true&count_private=true"/> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryzen-xp&theme=tokyonight" alt="Most Commit Language" />
 
 </td> 
 
