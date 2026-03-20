@@ -19,7 +19,9 @@
 
 - 💬 Ask me about **Solidity, Cairo, Dojo, Foundry, TS**
 
-- 🌐⛓️ Work on **Starknet, Stellar, EVM** Blockchain ecosystem's.
+- ⛓️ Work on **Starknet, Stellar, EVM** Blockchain ecosystem's.
+
+- 👽 Maintainer of **[Alien Protocol](https://alien-protocol.xyz)** 
 
   
 
