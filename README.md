@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=ryzen-xp&label=Profile%20views&color=0e75b6&style=flat" alt="ryzen-xp" />
 </div>
 
-- 🌱 I’m currently learning **Rust, Axum**
+- 🌱 I’m currently learning **Rust, Circom**
 
 - 💬 Ask me about **Solidity, Cairo, Dojo, Foundry, TS**
 
