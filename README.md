@@ -22,7 +22,7 @@
 
 - 👽 Maintainer of **[Alien Protocol](https://alien-protocol.xyz)** 
 
-  
+
 
 <div align="center">
   <img src=https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,cairo,javascript,ts,cpp,nodejs,postgres,nest,bash,linux, dojo />
@@ -31,30 +31,32 @@
 
   <!--- stats (start) -->
   
- <table align="center">
-   
-<tr border="none">
-  
-<td width="50%" align="center"> 
-  <!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ryzen-xp&theme=dark&show_icons=true&count_private=true"/> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryzen-xp&theme=tokyonight" alt="Most Commit Language" />
+<div align="center" style="width:100%;">
 
-</td> 
+  <table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
+    <tr>
+      <td align="center">
+        <img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryzen-xp&theme=dark"/>
+      </td>
+      <td align="center">
+        <img width="75%" hieght="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryzen-xp&theme=dark&utcOffset=5.5"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryzen-xp&theme=dark"/>
+      </td>
+      <td align="center">
+        <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ryzen-xp&count_private=true&theme=dark&border_radius=10"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ryzen-xp&bg_color=0E1A2B&color=6DB6FF&line=1A91DA&point=1A91DA&area=true&hide_border=true" alt="Activity Graph"/>
+      </td>
+    </tr>
+  </table>
 
-<td width="50%" align="center">
-  
-
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ryzen-xp&count_private=true&theme=dark&border_radius=10" alt="GitHub Streak" />
-  
-  
-  </td>
-</tr>
-
-
-</table> 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryzen-xp&bg_color=0E1A2B&color=6DB6FF&line=1A91DA&point=1A91DA&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ### 🌐 Let's Connect!
@@ -68,5 +70,6 @@
     <img src="https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" />
  </a>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
