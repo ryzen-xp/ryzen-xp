@@ -43,7 +43,7 @@
         <img width="75%" hieght="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryzen-xp&theme=dark&utcOffset=5.5"/>
       </td>
     </tr> -->
-    <tr>
+    <!-- <tr>
       <td align="center">
         <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=ryzen-xp&count_private=true&show_icons=true&theme=onedark"/>
       </td>
@@ -51,7 +51,7 @@
         <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ryzen-xp&count_private=true&theme=dark&border_radius=10"/>
       </td>
     </tr>
-    <tr>
+    <tr> -->
       <td colspan="2" align="center">
         <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ryzen-xp&bg_color=0E1A2B&color=6DB6FF&line=1A91DA&point=1A91DA&area=true&hide_border=true" alt="Activity Graph"/>
       </td>
