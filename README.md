@@ -23,7 +23,7 @@
 
 - ⛓️ Work on **Starknet, Stellar, EVM** Blockchain ecosystem's.
 
-- 👽 Maintainer of **[Alien Protocol](https://alien-protocol.xyz)** 
+- 👽 Maintainer of Projects : [ **[Alien Protocol](https://alien-protocol.xyz)** , **[Trustless OSS](https://trustless-oss.xyz)** ] 
 
 
 
